@@ -1,0 +1,59 @@
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csprojAssemblyReference.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Cadastro.resources
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.Properties.Resources.resources
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.GenerateResource.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CoreCompileInputs.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CopyComplete
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.exe
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.dll.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Cadastro.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.Properties.Resources.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CopyComplete
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.exe
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.exe
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.UI.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.BLL.dll.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DAL.dll.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.pdb
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.DTO.dll.config
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csprojAssemblyReference.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Cadastro.resources
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.Properties.Resources.resources
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.GenerateResource.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CoreCompileInputs.cache
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\APP.csproj.CopyComplete
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.exe
+C:\Users\Stefanini\Desktop\Geison's Stuffs\Personal\CRUD_Cadastro_Final\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.UI.pdb

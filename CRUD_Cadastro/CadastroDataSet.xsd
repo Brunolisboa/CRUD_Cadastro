@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CadastroDataSet" targetNamespace="http://tempuri.org/CadastroDataSet.xsd" xmlns:mstns="http://tempuri.org/CadastroDataSet.xsd" xmlns="http://tempuri.org/CadastroDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CST" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CST (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CRUD_Cadastro.UI.Properties.Settings.GlobalReference.Default.CST" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="FuncionalidadeTableAdapter" GeneratorDataComponentClassName="FuncionalidadeTableAdapter" Name="Funcionalidade" UserDataComponentName="FuncionalidadeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CST (Settings)" DbObjectName="Cadastro.dbo.Funcionalidade" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Funcionalidade FROM dbo.Funcionalidade</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Funcionalidade" DataSetColumn="Funcionalidade" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CadastroDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="CadastroDataSet" msprop:Generator_UserDSName="CadastroDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Funcionalidade" msprop:Generator_TableClassName="FuncionalidadeDataTable" msprop:Generator_TableVarName="tableFuncionalidade" msprop:Generator_TablePropName="Funcionalidade" msprop:Generator_RowDeletingName="FuncionalidadeRowDeleting" msprop:Generator_RowChangingName="FuncionalidadeRowChanging" msprop:Generator_RowEvHandlerName="FuncionalidadeRowChangeEventHandler" msprop:Generator_RowDeletedName="FuncionalidadeRowDeleted" msprop:Generator_UserTableName="Funcionalidade" msprop:Generator_RowChangedName="FuncionalidadeRowChanged" msprop:Generator_RowEvArgName="FuncionalidadeRowChangeEvent" msprop:Generator_RowClassName="FuncionalidadeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Funcionalidade" msprop:Generator_ColumnVarNameInTable="columnFuncionalidade" msprop:Generator_ColumnPropNameInRow="Funcionalidade" msprop:Generator_ColumnPropNameInTable="FuncionalidadeColumn" msprop:Generator_UserColumnName="Funcionalidade">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\obj\Debug\CRUD_Cadastro.DAL.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\obj\Debug\CRUD_Cadastro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\bin\Debug\CRUD_Cadastro.DAL.dll.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\bin\Debug\CRUD_Cadastro.DAL.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\bin\Debug\CRUD_Cadastro.DAL.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\bin\Debug\CRUD_Cadastro.DTO.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\bin\Debug\CRUD_Cadastro.DTO.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\obj\Debug\CRUD_Cadastro.DAL.csproj.CopyComplete
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\obj\Debug\CRUD_Cadastro.DAL.dll
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro.DAL\obj\Debug\CRUD_Cadastro.DAL.pdb

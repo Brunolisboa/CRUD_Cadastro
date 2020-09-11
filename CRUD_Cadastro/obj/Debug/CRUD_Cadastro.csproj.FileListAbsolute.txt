@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.exe.config
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.exe
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\bin\Debug\CRUD_Cadastro.pdb
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Cadastro.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Funcionalidade.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Perfil.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Properties.Resources.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.Usuario.resources
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.exe
+C:\Users\bruno\source\repos\CRUD_Cadastro\CRUD_Cadastro\obj\Debug\CRUD_Cadastro.pdb
